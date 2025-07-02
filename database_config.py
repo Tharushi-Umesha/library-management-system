@@ -6,7 +6,7 @@ DB_CONFIG ={
     'database':'library_management_system',
     'port':3306,
     'user':'root',
-    'password':'enTER13456~',
+    'password':'enTER123456~',
     'charset':'utf8mb4',
     'autocommit':True,
      'collation': 'utf8mb4_unicode_ci'
